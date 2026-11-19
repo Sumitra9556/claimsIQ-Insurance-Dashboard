@@ -29,7 +29,7 @@ export function LoginPage({ onLogin, error }: LoginPageProps) {
             <ShieldCheck className="h-7 w-7 text-white" />
           </div>
           <div>
-            <h1 className="text-3xl font-bold tracking-tight text-white">ClaimsIQ</h1>
+            <h1 className="text-3xl font-bold tracking-tight text-white">WELCOME TO CLAIMIQ</h1>
             <p className="mt-1 text-sm text-blue-200">Insurance claims operations, simplified.</p>
           </div>
         </div>
